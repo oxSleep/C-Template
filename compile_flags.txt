@@ -1,0 +1,12 @@
+-xc
+-std=c11
+--target=x86_64-pc-windows-msvc
+-ferror-limit=0
+-Wall
+-Wextra
+-fms-compatibility
+-fms-extensions
+-fms-compatibility
+-fms-extensions
+-include
+src/base/core.h
